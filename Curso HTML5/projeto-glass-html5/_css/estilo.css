@@ -20,7 +20,7 @@ div#interface{
 header#cabecalho img#icone{
     position: absolute;
     left: 900px;
-    top: 70px;
+    top: 90px;
 }
 header#cabecalho{
     border-bottom: 1px  #606060 dotted  ;
